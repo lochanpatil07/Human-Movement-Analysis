@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+.venv/
+.ipynb_checkpoints/
+
+dataset/*
+!dataset/README.md
+
+results/raw/
